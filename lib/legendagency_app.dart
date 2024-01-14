@@ -5,8 +5,8 @@ import 'config/theme_manager.dart';
 import 'presentation/blocs/home_bloc/home_bloc.dart';
 import 'presentation/views/home_view.dart';
 
-class PortfolioApp extends StatelessWidget {
-  const PortfolioApp({super.key});
+class LegendAgencyApp extends StatelessWidget {
+  const LegendAgencyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
